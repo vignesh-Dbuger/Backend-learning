@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: InventorySystem
+  datasource:
+    url: jdbc:mysql://192.168.16.191:5873/user_1208
+    username: rw_onprem_user_1208
+    password: V1GN_I8SH_M3NB_Q6PL_Z9YX
